@@ -1,3 +1,3 @@
 input_channels=1
 output_channels=1
-effects_chain=gain -4.5 lowshelf 80 0.7q 4.5 eq 2500 2q 2 eq 6800 10q 2 eq 13000 1q 2 eq 2000 5q -2
+effects_chain=gain -5 eq 30 0.1q 1 eq 7343 1.383q -16.7 eq 5659 1.801q 16 eq 13556 1.869q 5.3 eq 17071 5q -12.2 eq 4754 5q -10.4 eq 17639 5q 8 eq 6861 5q 4 eq 10056 5q 6.8 eq 10338 5q -5.9
